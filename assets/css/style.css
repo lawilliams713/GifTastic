@@ -7,7 +7,7 @@
 */
 
 html{
-	background-color:#32746D;
+	background-color:#4B4E6D;
 	color:#011502;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -18,7 +18,7 @@ h1{
 }
 
 .content{
-	background-color:#9EC5AB;
+	background-color:#95A3B3;
 	width:70%;
 	padding:20px;
 	margin:20px auto;
@@ -29,8 +29,9 @@ h1{
 
 button{
     border-radius: 5px;
-    padding: 4px;
-    background-color: #104F55;
+	padding: 4px;
+	margin:4px;
+    background-color:#4B4E6D ;
     color:white;
 }
 
